@@ -1,6 +1,6 @@
 🤓 About Me
 
-<a href="https://www.linkedin.com/in/adish-ansari-a89486a3/" target="_blank" rel="noopener noreferrer">Profile Banner</a>
+[Profile Banner](https://www.linkedin.com/in/adish-ansari-a89486a3/){:target="_blank"}
 
 
 👋 Hi, I’m Adish Ansari
