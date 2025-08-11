@@ -1,6 +1,7 @@
 🤓 About Me
 
-![Profile Banner](profile-banner.png)
+![Profile Banner](https://www.linkedin.com/in/adish-ansari-a89486a3/)
+
 👋 Hi, I’m Adish Ansari
 👀 I’m interested in Full Stack Developement, DevOps
 🌱 I’m currently learning Cloud Computing (focused on Multi Cloud Architecture)
