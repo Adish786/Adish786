@@ -1,6 +1,6 @@
 🤓 About Me
 
-![Profile Banner](https://www.linkedin.com/in/adish-ansari-a89486a3/)
+Profile Banner https://www.linkedin.com/in/adish-ansari-a89486a3/
 
 👋 Hi, I’m Adish Ansari
 👀 I’m interested in Full Stack Developement, DevOps
