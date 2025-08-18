@@ -21,5 +21,6 @@
 😈 Angular - https://github.com/Adish786/Angular-Assign
 😈 MongoDB - https://github.com/Adish786/SpringBootReactiveMongoDb
 😈 React - https://github.com/Adish786/ChaterBootReactjs
+😈 Amplify-Vite-React -  https://github.com/Adish786/amplify-vite-react-template.git
 
 
